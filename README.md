@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 
-<h3 align="center">I am an aspiring algorithmic trader and quantitative analyst with an MSc in Financial Mathematics. Passionate about financial markets, data science, and machine learning, aiming to build robust solutions to optimize trading performance and conduct quantitative risk analysis.</h3>
+<h3 align="center">I am an algorithmic trader and quantitative analyst with an MSc in Financial Mathematics. Passionate about financial markets, data science, and machine learning, aiming to build robust solutions to optimize trading performance and conduct quantitative risk analysis.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
